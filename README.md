@@ -1,6 +1,5 @@
-# Carvalho_2023_WebService
+# Análise de dados administrativos de e-commerce: Uma abordagem focada no cliente
 
-## Resumo
 Com o aumento do e-commerce, os mais diversos tipos de golpes virtuais são propagados pela Internet. 
 Nem sempre é fácil decidir se uma loja é ou não segura para efetuar compras online. 
 Portanto, é ideal que o usuário possua ferramentas para verificar a legitimidade de um site. 
