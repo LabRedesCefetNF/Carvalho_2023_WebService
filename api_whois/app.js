@@ -21,6 +21,7 @@ app.use(cors({
 }));
 
 app.get("/whois/:slug", async (req, res) => {
+try{
     var slug = req.params.slug;
     const response = await fetch(`https://rdap.registro.br/domain/${slug}`, {
                     "method": "GET",
@@ -29,9 +30,13 @@ app.get("/whois/:slug", async (req, res) => {
                     }
                 });
     res.json(await response.json());
+} catch(e){
+	console.log(e.message);
+}
 } );
 
 app.get("/receita/:slug", async (req, res) => {
+try{
     var slug = req.params.slug;
     const response = await fetch(`https://receitaws.com.br/v1/cnpj/${slug}`, {
                     "method": "GET",
@@ -39,7 +44,13 @@ app.get("/receita/:slug", async (req, res) => {
                         "Content-Type": "application/json"
                     }
                 });
+	if(response.status >= 400){
+		throw new Error (response.status);
+	}
     res.json(await response.json());
+} catch (e){
+ 	console.log(e.message);
+}
 } );
 
 app.listen(80,'192.168.67.105', () => {
@@ -49,6 +60,6 @@ app.listen(80,'192.168.67.105', () => {
 https.createServer({
     cert:fs.readFileSync('SSL/code.crt'),
     key:fs.readFileSync('SSL/code.key')
-}, app).listen(3001,'192.168.67.105',() => {
+}, app).listen(3000,'192.168.67.105',() => {
     console.log("RODANDO HTTPS");
 });

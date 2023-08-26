@@ -1,0 +1,1031 @@
+{
+  "resultado": [
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 1
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 2
+    },
+    {
+      "dominio": "extra.com.br",
+      "criacao_dominio": "1998-11-30",
+      "ultima_alteracao": "2022-10-25",
+      "vencimento": "2027-11-30",
+      "data_situacao": "03/11/2005",
+      "cnpj": "47.508.411/0004-07",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4004-0010",
+      "email": "paralegal@grupopaodeacucar.com.br",
+      "endereco": {
+        "logradouro": "AV BRIG LUIS ANTONIO",
+        "numero": "2013",
+        "cep": "01.317-002",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 3
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 4
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 5
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 6
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 7
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 8
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 9
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 10
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 11
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 12
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 13
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 14
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 15
+    },
+    {
+      "dominio": "uol.com.br",
+      "criacao_dominio": "1996-04-24",
+      "ultima_alteracao": "2022-11-22",
+      "vencimento": "2025-04-24",
+      "data_situacao": "27/08/2005",
+      "cnpj": "01.109.184/0004-38",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4003-2002",
+      "email": "faleconosco@uol.com.br",
+      "endereco": {
+        "logradouro": "AV BRIGADEIRO FARIA LIMA",
+        "numero": "1384",
+        "cep": "01.451-001",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 16
+    },
+    {
+      "dominio": "uol.com.br",
+      "criacao_dominio": "1996-04-24",
+      "ultima_alteracao": "2022-11-22",
+      "vencimento": "2025-04-24",
+      "data_situacao": "27/08/2005",
+      "cnpj": "01.109.184/0004-38",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4003-2002",
+      "email": "faleconosco@uol.com.br",
+      "endereco": {
+        "logradouro": "AV BRIGADEIRO FARIA LIMA",
+        "numero": "1384",
+        "cep": "01.451-001",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 17
+    },
+    {
+      "dominio": "miadoselatidos.org.br",
+      "criacao_dominio": "2013-03-06",
+      "ultima_alteracao": "2022-03-28",
+      "vencimento": "2023-03-06",
+      "data_situacao": "12/09/2012",
+      "cnpj": "17.291.107/0001-39",
+      "cnpj_ativo": true,
+      "telefone": "(11) 9996-4662",
+      "email": "adriana@miadoselatidos.org.br",
+      "endereco": {
+        "logradouro": "R PINHEIRO GUIMARAES",
+        "numero": "837",
+        "cep": "03.141-030",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 18
+    },
+    {
+      "dominio": "laje.org.br",
+      "criacao_dominio": "2016-02-05",
+      "ultima_alteracao": "2021-01-12",
+      "vencimento": "2023-02-05",
+      "data_situacao": "03/11/2005",
+      "cnpj": "00.068.903/0001-04",
+      "cnpj_ativo": true,
+      "telefone": "(22) 2522-5130",
+      "email": "",
+      "endereco": {
+        "logradouro": "R SOUZA CARDOSO",
+        "numero": "403",
+        "cep": "28.625-520",
+        "municipio": "NOVA FRIBURGO",
+        "uf": "RJ"
+      },
+      "id": 19
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 20
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 21
+    },
+    {
+      "dominio": "uol.com.br",
+      "criacao_dominio": "1996-04-24",
+      "ultima_alteracao": "2022-11-22",
+      "vencimento": "2025-04-24",
+      "data_situacao": "27/08/2005",
+      "cnpj": "01.109.184/0004-38",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4003-2002",
+      "email": "l-paralegal@uolinc.com",
+      "endereco": {
+        "logradouro": "AV BRIG FARIA LIMA",
+        "numero": "1384",
+        "cep": "01.451-001",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 22
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 23
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 24
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 25
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 26
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 27
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 28
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 29
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 30
+    },
+    {
+      "dominio": "centauro.com.br",
+      "criacao_dominio": "1996-08-29",
+      "ultima_alteracao": "2020-07-08",
+      "vencimento": "2024-08-29",
+      "data_situacao": "23/06/2004",
+      "cnpj": "06.347.409/0001-65",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2739-6453",
+      "email": "processofiscal@gruposbf.com.br",
+      "endereco": {
+        "logradouro": "R HUGO D ANTOLA",
+        "numero": "200",
+        "cep": "05.038-090",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 31
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 32
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 33
+    },
+    {
+      "dominio": "kabum.com.br",
+      "criacao_dominio": "2003-03-18",
+      "ultima_alteracao": "2021-02-19",
+      "vencimento": "2031-03-18",
+      "data_situacao": "03/11/2005",
+      "cnpj": "05.570.714/0001-59",
+      "cnpj_ativo": true,
+      "telefone": "(19) 2113-8250",
+      "email": "fiscalizacao@kabum.com.br",
+      "endereco": {
+        "logradouro": "R CARLOS GOMES",
+        "numero": "1321",
+        "cep": "13.480-013",
+        "municipio": "LIMEIRA",
+        "uf": "SP"
+      },
+      "id": 34
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 35
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 36
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 37
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 38
+    },
+    {
+      "dominio": "uol.com.br",
+      "criacao_dominio": "1996-04-24",
+      "ultima_alteracao": "2022-11-22",
+      "vencimento": "2025-04-24",
+      "data_situacao": "27/08/2005",
+      "cnpj": "01.109.184/0004-38",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4003-2002",
+      "email": "l-paralegal@uolinc.com",
+      "endereco": {
+        "logradouro": "AV BRIG FARIA LIMA",
+        "numero": "1384",
+        "cep": "01.451-001",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 39
+    },
+    {
+      "dominio": "kabum.com.br",
+      "criacao_dominio": "2003-03-18",
+      "ultima_alteracao": "2021-02-19",
+      "vencimento": "2031-03-18",
+      "data_situacao": "03/11/2005",
+      "cnpj": "05.570.714/0001-59",
+      "cnpj_ativo": true,
+      "telefone": "(19) 2113-8250",
+      "email": "fiscalizacao@kabum.com.br",
+      "endereco": {
+        "logradouro": "R CARLOS GOMES",
+        "numero": "1321",
+        "cep": "13.480-013",
+        "municipio": "LIMEIRA",
+        "uf": "SP"
+      },
+      "id": 40
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 41
+    },
+    {
+      "dominio": "google.com.br",
+      "criacao_dominio": "1999-05-19",
+      "ultima_alteracao": "2021-04-23",
+      "vencimento": "2023-05-19",
+      "data_situacao": "01/09/2004",
+      "cnpj": "06.990.590/0001-23",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2395-8400",
+      "email": "googlebrasil@google.com",
+      "endereco": {
+        "logradouro": "AV BRIG FARIA LIMA",
+        "numero": "3477",
+        "cep": "04.538-133",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 42
+    },
+    {
+      "dominio": "amazon.com.br",
+      "criacao_dominio": "1995-09-27",
+      "ultima_alteracao": "2020-10-26",
+      "vencimento": "2024-09-27",
+      "data_situacao": "02/04/2012",
+      "cnpj": "15.436.940/0001-03",
+      "cnpj_ativo": true,
+      "telefone": "(11) 4130-2000",
+      "email": "amzbr-tax-compliance@amazon.com",
+      "endereco": {
+        "logradouro": "AV PRESIDENTE JUSCELINO KUBITSCHEK",
+        "numero": "2041",
+        "cep": "04.543-011",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 43
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2022-05-26",
+      "vencimento": "2023-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 44
+    },
+    {
+      "dominio": "kabum.com.br",
+      "criacao_dominio": "2003-03-18",
+      "ultima_alteracao": "2021-02-19",
+      "vencimento": "2031-03-18",
+      "data_situacao": "03/11/2005",
+      "cnpj": "05.570.714/0001-59",
+      "cnpj_ativo": true,
+      "telefone": "(19) 2113-8250",
+      "email": "fiscalizacao@kabum.com.br",
+      "endereco": {
+        "logradouro": "R CARLOS GOMES",
+        "numero": "1321",
+        "cep": "13.480-013",
+        "municipio": "LIMEIRA",
+        "uf": "SP"
+      },
+      "id": 45
+    },
+    {
+      "dominio": "americanas.com.br",
+      "criacao_dominio": "1999-06-15",
+      "ultima_alteracao": "2023-06-16",
+      "vencimento": "2024-06-15",
+      "data_situacao": "14/03/2007",
+      "cnpj": "00.776.574/0006-60",
+      "cnpj_ativo": true,
+      "telefone": "(21) 4003-4848",
+      "email": "fiscal.nfe@b2wdigital.com",
+      "endereco": {
+        "logradouro": "R SACADURA CABRAL",
+        "numero": "102",
+        "cep": "20.081-902",
+        "municipio": "RIO DE JANEIRO",
+        "uf": "RJ"
+      },
+      "id": 46
+    },
+    {
+      "dominio": "dafiti.com.br",
+      "criacao_dominio": "2010-12-02",
+      "ultima_alteracao": "2022-11-04",
+      "vencimento": "2024-12-02",
+      "data_situacao": "24/09/2009",
+      "cnpj": "11.200.418/0001-69",
+      "cnpj_ativo": true,
+      "telefone": "(11) 3055-0380",
+      "email": "tributario@dafiti.com.br",
+      "endereco": {
+        "logradouro": "AV FRANCISCO MATARAZZO",
+        "numero": "1350",
+        "cep": "05.001-100",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 47
+    },
+    {
+      "dominio": "tricae.com.br",
+      "criacao_dominio": "2011-07-05",
+      "ultima_alteracao": "2023-06-12",
+      "vencimento": "2024-07-05",
+      "data_situacao": "24/09/2009",
+      "cnpj": "11.200.418/0001-69",
+      "cnpj_ativo": true,
+      "telefone": "(11) 3055-0380",
+      "email": "tributario@dafiti.com.br",
+      "endereco": {
+        "logradouro": "AV FRANCISCO MATARAZZO",
+        "numero": "1350",
+        "cep": "05.001-100",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 48
+    },
+    {
+      "dominio": "tricae.com.br",
+      "criacao_dominio": "2011-07-05",
+      "ultima_alteracao": "2023-06-12",
+      "vencimento": "2024-07-05",
+      "data_situacao": "24/09/2009",
+      "cnpj": "11.200.418/0001-69",
+      "cnpj_ativo": true,
+      "telefone": "(11) 3055-0380",
+      "email": "tributario@dafiti.com.br",
+      "endereco": {
+        "logradouro": "AV FRANCISCO MATARAZZO",
+        "numero": "1350",
+        "cep": "05.001-100",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 49
+    },
+    {
+      "dominio": "graodegente.com.br",
+      "criacao_dominio": "2012-06-01",
+      "ultima_alteracao": "2020-10-23",
+      "vencimento": "2030-06-01",
+      "data_situacao": "19/10/2016",
+      "cnpj": "26.384.531/0001-19",
+      "cnpj_ativo": true,
+      "telefone": "(11) 3522-8379",
+      "email": "spositocontabil@spositocontabil.com.br",
+      "endereco": {
+        "logradouro": "ROD MG 290 KM 73",
+        "numero": "S/N",
+        "cep": "37.590-000",
+        "municipio": "JACUTINGA",
+        "uf": "MG"
+      },
+      "id": 50
+    },
+    {
+      "dominio": "rayovac.com.br",
+      "criacao_dominio": "1996-10-09",
+      "ultima_alteracao": "2021-09-10",
+      "vencimento": "2023-10-09",
+      "data_situacao": "21/05/2003",
+      "cnpj": "05.678.324/0001-05",
+      "cnpj_ativo": true,
+      "telefone": "(11) 2145-7034 / (11) 5373-7993 / (11) 3105-7355",
+      "email": "contato@dominiorapido.com.br",
+      "endereco": {
+        "logradouro": "RUA VERGUEIRO",
+        "numero": "875",
+        "cep": "01.504-001",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 51
+    },
+    {
+      "dominio": "tribunademinas.com.br",
+      "criacao_dominio": "1996-05-18",
+      "ultima_alteracao": "2023-04-19",
+      "vencimento": "2025-05-18",
+      "data_situacao": "08/07/2013",
+      "cnpj": "18.441.289/0001-40",
+      "cnpj_ativo": true,
+      "telefone": "(32) 3215-6374",
+      "email": "ilsa@grupoteccon.com.br",
+      "endereco": {
+        "logradouro": "R HALFELD",
+        "numero": "513",
+        "cep": "36.010-001",
+        "municipio": "JUIZ DE FORA",
+        "uf": "MG"
+      },
+      "id": 52
+    },
+    {
+      "dominio": "tudoiphone.com.br",
+      "criacao_dominio": "2016-03-09",
+      "ultima_alteracao": "2022-07-22",
+      "vencimento": "2025-03-09",
+      "cnpj": "036.567.239-40",
+      "cnpj_ativo": false,
+      "endereco": {},
+      "id": 53
+    },
+    {
+      "dominio": "atacadum.com.br",
+      "criacao_dominio": "2021-07-16",
+      "ultima_alteracao": "2022-06-18",
+      "vencimento": "2024-07-16",
+      "cnpj": "056.962.505-05",
+      "cnpj_ativo": false,
+      "endereco": {},
+      "id": 54
+    },
+    {
+      "dominio": "tricae.com.br",
+      "criacao_dominio": "2011-07-05",
+      "ultima_alteracao": "2023-06-12",
+      "vencimento": "2024-07-05",
+      "data_situacao": "24/09/2009",
+      "cnpj": "11.200.418/0001-69",
+      "cnpj_ativo": true,
+      "telefone": "(11) 3055-0380",
+      "email": "tributario@dafiti.com.br",
+      "endereco": {
+        "logradouro": "AV FRANCISCO MATARAZZO",
+        "numero": "1350",
+        "cep": "05.001-100",
+        "municipio": "SAO PAULO",
+        "uf": "SP"
+      },
+      "id": 55
+    }
+  ]
+}
